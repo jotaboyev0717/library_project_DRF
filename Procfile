@@ -1,1 +1,1 @@
-web: gunicorn library_Project.wsgi:application --bind [IP_ADDRESS]:$PORT
+web: gunicorn library_Project.wsgi:application --bind 0.0.0.0:$PORT
