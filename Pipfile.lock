@@ -177,12 +177,12 @@
         },
         "django": {
             "hashes": [
-                "sha256:25148b1194c47c2e685e5f5e9c5d59c78b075dfd282cb9618861ba6c1708f4d2",
-                "sha256:ad03916ba59523d781ae5c3f631960c23d69a9d9c43cecda52fc23b47e953713"
+                "sha256:b7720a90857a46eb57f58aa29fc4d7844a1ac705fb61725e6fbebbad600e2479",
+                "sha256:d08aae6f285b8c7bb1fb1156bc0e9dc3ec94282c80b8e975c46e09daeebbb89f"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.12'",
-            "version": "==6.0.6"
+            "version": "==6.1b1"
         },
         "django-allauth": {
             "hashes": [
